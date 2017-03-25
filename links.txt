@@ -1,1 +1,21 @@
-Uhh, lol
+Directly related:
+https://github.com/Em-Lopez/CCNerualNetwork
+
+https://www.tensorflow.org/api_docs/python
+
+Background info:
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/
+https://www.google.com/search?q=generative+adverserial+neural+network
+https://github.com/MattVitelli/GRUV
+https://www.tensorflow.org/tutorials
+
+Inspiration:
+https://en.wikipedia.org/wiki/Auditory_system
+https://en.wikipedia.org/wiki/Unsupervised_learning
+https://rogerdudler.github.io/git-guide
+https://www.tensorflow.org/
+
+Protoplasm:
+https://github.com/LantaoYu/SeqGAN
+
